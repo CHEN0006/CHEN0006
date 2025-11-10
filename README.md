@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou Gabriel Chenn 👋
 
-<!--
-**CHEN0006/CHEN0006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de desenvolvimento de software  
+💡 Apaixonado por tecnologia, design e inovação  
+📍 Brasília, Brasil  
+📫 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/gabriel-chenn) | [Instagram](https://www.instagram.com/gabrielchenn.de)
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou aprendendo
+- HTML, CSS, JavaScript
+- Python
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos em destaque
+Em breve estarei publicando projetos que mostram minhas habilidades e evolução como desenvolvedor. Fique de olho!
+
+## 📈 Estatísticas do GitHub
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHEN0006&show_icons=true&theme=dracula)
