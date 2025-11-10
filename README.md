@@ -1,9 +1,30 @@
 # Olá, eu sou Gabriel Chenn 👋
 
-🎓 Estudante de desenvolvimento de software  
+🎓 Estudante de Ciencias da Computação 
 💡 Apaixonado por tecnologia, design e inovação  
 📍 Brasília, Brasil  
 📫 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/gabriel-chenn) | [Instagram](https://www.instagram.com/gabrielchen.dev/?utm_source=ig_web_button_share_sheet)
+
+## 📸 Principais competências:
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+</div>
+
+---
+
+## 📚 Estudando neste momento:
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</div>
+
+
 
 ## 🚀 Tecnologias que estou aprendendo
 - HTML, CSS, JavaScript
